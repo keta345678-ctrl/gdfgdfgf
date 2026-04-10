@@ -56,10 +56,10 @@ def scrobble_batch(batch, start_number, max_retries=3):
 
 
 canciones = [
-  { "artist": "xartinreligion", "track": "mama", "album": "xartin money records" },
-  { "artist": "xartinreligion", "track": "mama", "album": "xartin money records" },
-  { "artist": "xartinreligion", "track": "mama", "album": "xartin money records" },
-  { "artist": "xartinreligion", "track": "mama", "album": "xartin money records" },
+  { "artist": "xartinreligion", "track": "ronco", "album": "rival ®" },
+  { "artist": "xartinreligion", "track": "ronco", "album": "rival ®" },
+  { "artist": "xartinreligion", "track": "ronco", "album": "rival ®" },
+  { "artist": "xartinreligion", "track": "ronco", "album": "rival ®" },
 
 ]
 
