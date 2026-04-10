@@ -59,10 +59,10 @@ def scrobble_batch(batch, start_number, max_retries=3):
 
 
 canciones = [
-  { "artist": "Unixzo", "track": "draco blew his head", "album": "draco blew his head" },
-  { "artist": "Unixzo", "track": "draco blew his head", "album": "draco blew his head" },
-  { "artist": "Unixzo", "track": "draco blew his head", "album": "draco blew his head" },
-  { "artist": "Unixzo", "track": "draco blew his head", "album": "draco blew his head" },
+  { "artist": "Unixzo", "track": "Dey cant Do it Right", "album": "Dey cant Do it Right" },
+  { "artist": "Unixzo", "track": "Dey cant Do it Right", "album": "Dey cant Do it Right" },
+  { "artist": "Unixzo", "track": "Dey cant Do it Right", "album": "Dey cant Do it Right" },
+  { "artist": "Unixzo", "track": "Dey cant Do it Right", "album": "Dey cant Do it Right" },
 
 ]
 
