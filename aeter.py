@@ -56,9 +56,10 @@ def scrobble_batch(batch, start_number, max_retries=3):
 
 
 canciones = [
-    {"artist": "aeter", "track": "geeked", "album": "geeked"},
-    {"artist": "aeter", "track": "friends", "album": "friends"},
-    {"artist": "aeter", "track": "boyfriend", "album": "boyfriend"},
+    {"artist": "kushbabykeys", "track": "feels like greaf", "album": "Woé Baby"},
+    {"artist": "kushbabykeys", "track": "feels like greaf", "album": "Woé Baby"},
+    {"artist": "kushbabykeys", "track": "feels like greaf", "album": "Woé Baby"},
+    {"artist": "kushbabykeys", "track": "feels like greaf", "album": "Woé Baby"},
 
 ]
 
