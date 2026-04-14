@@ -56,11 +56,10 @@ def scrobble_batch(batch, start_number, max_retries=3):
 
 
 canciones = [
-      {"artist": "Vahel", "track": "PLAN B", "album": "PLAN B"},
-      {"artist": "Vahel", "track": "PLAN B", "album": "PLAN B"},
-      {"artist": "Vahel", "track": "PLAN B", "album": "PLAN B"},
-      {"artist": "Vahel", "track": "PLAN B", "album": "PLAN B"},
-
+      {"artist": "Vahel", "track": "Me Meti / El Pozo", "album": "Me Meti / El Pozo"},
+      {"artist": "Vahel", "track": "Me Meti / El Pozo", "album": "Me Meti / El Pozo"},
+      {"artist": "Vahel", "track": "Me Meti / El Pozo", "album": "Me Meti / El Pozo"},
+      {"artist": "Vahel", "track": "Me Meti / El Pozo", "album": "Me Meti / El Pozo"},
 
 ]
 
